@@ -1,0 +1,4 @@
+{
+    "image": "gradle:jdk14",
+    "extensions": ["./codeHamster-0.0.1.vsix"]
+}
