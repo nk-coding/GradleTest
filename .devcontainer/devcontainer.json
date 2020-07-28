@@ -1,4 +1,5 @@
 {
     "dockerFile": "Dockerfile",
-    "extensions": ["/tmp/codeHamster-0.0.1.vsix"]
+    "postCreateCommand": "pwd"
+    //"extensions": ["/tmp/codeHamster-0.0.1.vsix"]
 }
