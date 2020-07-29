@@ -1,5 +1,5 @@
 {
     "dockerFile": "Dockerfile",
-    "postCreateCommand": "pwd"
+    "postCreateCommand": "echo 'where are you' > text.txt"
     //"extensions": ["/tmp/codeHamster-0.0.1.vsix"]
 }
